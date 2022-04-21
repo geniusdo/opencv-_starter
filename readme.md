@@ -1,5 +1,7 @@
 # OpenCV starter
 
+***author: geniusdo***
+
 **make sure that you have installed all pkg you need and correct environment settings**
 
 ## To use this example code, you only have to follow the steps below.
