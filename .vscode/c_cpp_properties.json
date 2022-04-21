@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/lib",
+                "/usr/local/bin",
+                "/usr/local/include/opencv4",
+                "/usr/local/share/opencv4",
+                "/usr/local/include/opencv4/opencv2"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerArgs": [
+                "-lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_videoio -libopencv_videoio"
+            ]
+        }
+    ],
+    "version": 4
+}
